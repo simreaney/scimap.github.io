@@ -2,11 +2,11 @@
 main:
   - title: "Overview"
     url: /overview/
-   - title: "About"
+   - title: "Software"
      url: /software/
    - title: "Training"
      url: /training/
    - title: "User Group Meeting"
-     url: /ugm
+     url: /ugm/
 #   - title: "Sitemap"
 #     url: /sitemap/
