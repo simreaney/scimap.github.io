@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Catchment hydrology, flooding and water quality"
-excerpt: "About me"
+title: "SCIMAP"
+excerpt: "About SCIMAP"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 
-I am a catchment hydrologist who works across flood hazards and water quality degradation in temperate, tropical and mountain environments. My research aims to integrate novel field measurement with innovative analysis and simulation modelling to enable new insights into catchment hydrological functioning and new approaches to managing the environment. Most recently, new field data has included working collaboratively to build the most detailed water quality time series from a grassland agricultural system in the UK, a new hydro-meteorological monitoring network in Java and extensive flood impact and river form mapping using helicopter-based photogrammetry in Nepal. This information is being used to address scientific questions of:
-* How does the landscape and weather effect the movement of water, sediment and nutrients (N and P)?
-* How does the spatial and temporal rainfall storm structure flood generation?
-* How does hydrological connectivity affect flood generation at the landscape scale?
+Polluted water is a problem if we have to drink it. However, it can also be a problem for the plants, insects and fish that require clean water to survive. Traditionally, we accepted that water can become polluted because we discharge waste into it. Now, we also know that water can be polluted because of waste produced from across whole landscapes (excess fertiliser, animal manure or soil). This type of waste comes from a large number of places (e.g. fields) but in small amounts. It becomes a problem because it gets funnelled into our rivers where the concentrations can be very high. This is called diffuse pollution. Across the world we are trying to improve our rivers and streams for the living creatures that are being impacted upon by diffuse pollution. How can we make our rivers and streams clean again?
 
-My work has often been undertaken with stakeholders, including Defra, the Environment Agency and River Trusts in the UK, and through the co-development of the research questions and approaches I have developed tools and software that is routinely used for catchment management. The main tool is the [SCIMAP](http://www.scimap.org.uk) diffuse pollution risk mapping approach that is widely used in the UK and overseas. This work was part of an impact case study in 2015. I have also written the CRUM3 fully distributed catchment hydrological model that has been used for natural flood risk management and water resources assessment with local flood action groups in a series of MRes, PhD and other projects.
+To make our rivers and streams clean again, we need to be able to work out where the pollution is coming from. Not all fields will be polluting. Two things make a field a problem:
+
+* a field that produces lots of pollution;
+* a field that is easily connected to rivers, lakes, or groundwater.
+To identify the locations that are a problem, we developed SCIMAP. This project was originally jointly developed between Durham and Lancaster Universities. SCIMAP is supported by the U.K.’s Natural Environment Research Council, the Eden Rivers Trust, the Department of the Environment, Food and Rural Affairs and the Environment Agency. Following this project SCIMAP has been supported by Durham University, the Rivers Trust and the Environment Agency.
+
+We hope that SCIMAP will be used to help decision-makers, including governments, non-governmental organisations, land owners etc. to work out where to prioritise activities that protect the water environment, and so make our water clean again.
+
+On this web-site, we provide a basic description of the science base that we are developing, we illustrate the SCIMAP approach and how it works, and we provide material for further learning about the approach. You can download the SCIMAP software for Windows or use the web based my.scimap tool.
